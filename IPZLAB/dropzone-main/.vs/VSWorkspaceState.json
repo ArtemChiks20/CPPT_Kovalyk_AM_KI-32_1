@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\Received Files",
+    "\\GalaSoft.MvvmLight\\Command",
+    "\\GalaSoft.MvvmLight\\Messaging",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\TempPE",
+    "\\Protocol\\Chat",
+    "\\Protocol\\File",
+    "\\Protocol\\Terminal"
+  ],
+  "SelectedNode": "\\ViewModels",
+  "PreviewInSolutionExplorer": false
+}
